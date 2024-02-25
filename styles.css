@@ -1,0 +1,17 @@
+/* Reset some default browser styles to provide a consistent base */
+
+/* Add additional styles as needed for your specific content and design */
+
+.about h1 {
+    font-size: 1.5em;
+}
+
+.about img {
+    max-width: 300px;
+    height: auto;
+}
+
+.about {
+    background-color: #ede7de
+    ;
+}
