@@ -4,6 +4,7 @@
 
 .about h1 {
     font-size: 1.5em;
+    font-family: 'Arial', sans-serif; /* Added font style */
 }
 
 .about img {
@@ -12,6 +13,6 @@
 }
 
 .about {
-    background-color: #ede7de
-    ;
+    background-color: #ede7de;
+    font-family: 'Arial', sans-serif; /* Added font style */
 }
